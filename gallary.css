@@ -583,7 +583,7 @@ bottom:60px;
   padding-left: 5%;
   padding-right: 5%;
   text-align: center;
-  font-size: 90px;
+  font-size: 40px;
 
 }
 }
@@ -593,7 +593,7 @@ bottom:60px;
   padding-left: 6%;
   padding-right: 10%;
   text-align: left;
-  font-size: 90px;
+  font-size: 40px;
 
 }
 }
@@ -851,7 +851,7 @@ background: linear-gradient(to left, #000000 1%, #ffffff 106%);
 
 @media (max-width:1000px) {
   .font {
-  	font-size: 90px;
+  	font-size: 40px;
  
   }
 }
