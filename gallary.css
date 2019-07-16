@@ -534,7 +534,6 @@ bottom:60px;
  @media (max-width: 1000px) {
   .prof{
    text-align: center;
-   font-size: 30px;
    padding-left: 5%;
    padding-right: 5%;
   }
@@ -584,7 +583,6 @@ bottom:60px;
   padding-left: 5%;
   padding-right: 5%;
   text-align: center;
-  font-size: 30px;
 
 }
 }
@@ -594,7 +592,6 @@ bottom:60px;
   padding-left: 6%;
   padding-right: 10%;
   text-align: left;
-  font-size: 30px;
 
 }
 }
@@ -846,14 +843,6 @@ background: linear-gradient(to left, #000000 1%, #ffffff 106%);
  @media (max-width: 1000px) {
   .timeleftts {
     color:#000;
-  }
-}
-
-
-@media (max-width:1000px) {
-  .font {
-  	font-size: 30px;
- 
   }
 }
 
